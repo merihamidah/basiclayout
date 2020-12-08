@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tokomeri</string>
+
+    <string name="content_price">Rp. 74.000.,</string>
+    <string name="content_text">Wardah Colorfit Velvet Matte Lip Mousse adalah satu-satunya lip produk halal yang nyaman dan longlasting di bibir untuk semua aktivitas. Memiliki finishing comfort matte, yaitu hasil akhir matte namun tidak terasa lengket dan kering ataupun membuat bibir tampak pecah-pecah. Dilengkapi dengan inovasi tekstur baru velvet powdery yang terasa lembut, ringan, dan lembab di bibir.
+    </string>
+    <string name="content_size">Wardah Colorfit Velvet Matte Lip Mousse
+        Original 100%
+        Ada NOMOR BPOM di kemasan
+        EXP date : 18/07/22
+        Netto : 4gr
+    </string>
+    <string name="content_shade">
+        - 01 Brown Dreamer
+        - 02 Joyful Orange
+        - 03 Rose Ballerina
+        - 04 Pink Sweetheart
+        - 05 Artisan Mauve
+        - 06 Fuchsia Lover
+        - 07 Red Pionner
+        - 08 Brown Creator
+        - 09 Ombre Charmer
+        - 10 Lively Coral
+        - 11 Cherish Marmalade
+        - 12 Chic Terracotta
+        - 13 Sweet Chinnamon
+        - 14 Dainty Caramel
+    </string>
+    <string name="content_specs">
+
+    </string>
+
+
+</resources>
